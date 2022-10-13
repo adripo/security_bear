@@ -30,9 +30,9 @@ The use of the software requires [CyBear Jinni App](https://github.com/CyBear-Ji
 [<img alt="Github" width="45px" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png" />](https://github.com/CyBear-Jinni)  
 
 
-[<img align="left" alt="Youtube" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png">](https://www.youtube.com/channel/UCHwTVuiz_mOq6tcc9lrZDOQ/videos)
 Feel free to take a look at our youtube channel!
 
+[<img alt="Youtube" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png">](https://www.youtube.com/channel/UCHwTVuiz_mOq6tcc9lrZDOQ/videos)
 
 
 ## Disclaimers
